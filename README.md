@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It contains the following additions:
 
-- Typescript
-- Tailwind
-- Storybook
-- Eslint
-- Husky
+-   Typescript
+-   Tailwind
+-   Storybook
+-   Eslint
+-   Husky
 
 ## Available Scripts
 
